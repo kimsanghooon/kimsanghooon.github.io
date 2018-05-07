@@ -44,6 +44,7 @@
     Default style for plugin. Please change them carefully!
     --------------------------------------------------------------- */
 .cbp-item {
+  max-width:262px; max-height:434px; min-width:262px; min-height:434px;
   display: inline-block;
   margin: 0 10px 20px 0; }
 
