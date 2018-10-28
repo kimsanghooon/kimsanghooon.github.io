@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a15b3da9-8aee-47d0-a608-d106e8cc61cb" name="Default" comment="POPUP NAVI KEY DOWN">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/rental.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/rental.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/ajax/projects/C225.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/ajax/projects/C225.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,13 +49,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="356" />
+          <entry key="html" value="358" />
           <entry key="txt" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="356" />
+          <entry key="HTML" value="358" />
           <entry key="PLAIN_TEXT" value="53" />
         </counts>
       </usages-collector>
@@ -88,20 +88,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/subpages/rental.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="639" column="77" selection-start-line="639" selection-start-column="77" selection-end-line="639" selection-end-column="77" />
+            <state relative-caret-position="283">
+              <caret line="622" column="42" selection-start-line="622" selection-start-column="42" selection-end-line="622" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/C225.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="67" selection-start-column="67" selection-end-column="67" />
+              <caret column="51" selection-start-column="51" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -147,8 +147,8 @@
       <find>c225</find>
       <find>konica</find>
       <find>Konicaminolta</find>
-      <find>c230</find>
       <find>c2263</find>
+      <find>c230</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -187,9 +187,9 @@
         <option value="$PROJECT_DIR$/assets/demos/corporate_1/js/scripts/pages/masonry-gallery.js" />
         <option value="$PROJECT_DIR$/assets/demos/corporate_1/js/scripts/pages/4col-portfolio.js" />
         <option value="$PROJECT_DIR$/subpages/ajax/projects/project1.html" />
-        <option value="$PROJECT_DIR$/subpages/ajax/projects/C225.html" />
         <option value="$PROJECT_DIR$/subpages/ajax/projects/C2263.html" />
         <option value="$PROJECT_DIR$/subpages/rental.html" />
+        <option value="$PROJECT_DIR$/subpages/ajax/projects/C225.html" />
       </list>
     </option>
   </component>
@@ -271,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540712627340" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540712689350" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -351,7 +351,7 @@
       <workItem from="1538124781647" duration="4000" />
       <workItem from="1538125078839" duration="17000" />
       <workItem from="1540107402672" duration="4970000" />
-      <workItem from="1540708050730" duration="4170000" />
+      <workItem from="1540708050730" duration="4232000" />
     </task>
     <task id="LOCAL-00001" summary="selling page X">
       <created>1540108142220</created>
@@ -507,11 +507,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540712582391</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="POPUP NAVI KEY DOWN">
+      <created>1540712634835</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1540712634835</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12540000" />
+    <option name="totallyTimeSpent" value="12602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="955" extended-state="0" />
@@ -787,13 +794,6 @@
     <entry file="file://$PROJECT_DIR$/assets/base/img/Detail/C225 사양.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/C225.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="67" selection-start-column="67" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/C2263.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -810,8 +810,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/subpages/rental.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="639" column="77" selection-start-line="639" selection-start-column="77" selection-end-line="639" selection-end-column="77" />
+        <state relative-caret-position="283">
+          <caret line="622" column="42" selection-start-line="622" selection-start-column="42" selection-end-line="622" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/C225.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
         </state>
       </provider>
     </entry>
