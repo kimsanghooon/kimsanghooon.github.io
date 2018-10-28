@@ -4145,19 +4145,19 @@ if (typeof Object.create !== 'function') {
             }).appendTo(t.navigation);
 
             // next
-            t.nextButton = $('<div/>', {
-                'class': 'cbp-popup-next',
-                'title': 'Next (Right arrow key)',
-                'data-action': 'next'
-            }).appendTo(t.navigation);
-
-
-            // prev
-            t.prevButton = $('<div/>', {
-                'class': 'cbp-popup-prev',
-                'title': 'Previous (Left arrow key)',
-                'data-action': 'prev'
-            }).appendTo(t.navigation);
+            // t.nextButton = $('<div/>', {
+            //     'class': 'cbp-popup-next',
+            //     'title': 'Next (Right arrow key)',
+            //     'data-action': 'next'
+            // }).appendTo(t.navigation);
+            //
+            //
+            // // prev
+            // t.prevButton = $('<div/>', {
+            //     'class': 'cbp-popup-prev',
+            //     'title': 'Previous (Left arrow key)',
+            //     'data-action': 'prev'
+            // }).appendTo(t.navigation);
 
 
             if (t.type === 'singlePage') {
