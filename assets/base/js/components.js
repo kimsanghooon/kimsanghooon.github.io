@@ -560,7 +560,7 @@ var ContentCubeLatestPortfolio = function () {
 			singlePageDelegate: '.cbp-singlePage',
 			singlePageDeeplinking: true,
 			singlePageStickyNavigation: true,
-			singlePageCounter: '<div class="cbp-popup-singlePage-counter">{{current}} of {{total}}</div>',
+			// singlePageCounter: '<div class="cbp-popup-singlePage-counter">{{current}} of {{total}}</div>',
 			singlePageCallback: function (url, element) {
 				// to update singlePage content use the following method: this.updateSinglePage(yourContent)
 				var t = this;
