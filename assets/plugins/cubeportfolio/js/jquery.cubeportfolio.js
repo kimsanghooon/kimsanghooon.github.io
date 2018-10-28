@@ -4388,15 +4388,15 @@ if (typeof Object.create !== 'function') {
             // total numbers of elements
             t.counterTotal = t.dataArray.length;
 
-            if (t.counterTotal === 1) {
-                t.nextButton.hide();
-                t.prevButton.hide();
-                t.dataActionImg = '';
-            } else {
-                t.nextButton.show();
-                t.prevButton.show();
-                t.dataActionImg = 'data-action="next"';
-            }
+            // if (t.counterTotal === 1) {
+            //     t.nextButton.hide();
+            //     t.prevButton.hide();
+            //     t.dataActionImg = '';
+            // } else {
+            //     t.nextButton.show();
+            //     t.prevButton.show();
+            //     t.dataActionImg = 'data-action="next"';
+            // }
 
             // append to body
             t.wrap.appendTo(document.body);
