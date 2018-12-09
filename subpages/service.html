@@ -350,7 +350,7 @@ Follow: http://www.twitter.com/themehats
                 <!--<h3 class="c-font-uppercase c-font-sbold">신도리코</h3>-->
             </div>
             <ul class="c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular">
-                <li><a href="#">회사소개</a></li>
+                <li><a href="#">렌탈 및 유지보수</a></li>
                 <li>/</li>
                 <!-- 회사명 수정 부분 -->
                 <!--<li><a href="page-4col-portfolio.html">신도리코</a></li>-->
@@ -368,14 +368,25 @@ Follow: http://www.twitter.com/themehats
                 </ul>
             </div>
             <div class="tab-slider--container">
-                <div id="tab1" class="tab-slider--body">
-                    <h2>First Tab</h2>
-                    <p>Toggle switch style tab navigation. Currently only works with two tabs.</p>
-                    <p>Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit libero, a pharetra augue.</p>
+                <div id="첫째" class="tab-slider--body">
+                    <h2>비용절감</h2>
+                    <p>초기 기게구매 비용이 없어 부담이 적고 사무환경에 맞게 제품을 사용할 수 있습니다.</p>
                 </div>
-                <div id="tab2" class="tab-slider--body">
-                    <h2>Second Tab</h2>
-                    <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                <div id="둘째" class="tab-slider--body">
+                    <h2>용지를 제외한 무상제공 서비스</h2>
+                    <p>
+                        임대계약시 소모품, 부품은 무상제공 되기 때문에 구매비용의 부담을 줄일 수 있습니다.
+                    </p>
+                </div>
+                <div id="셋째" class="tab-slider--body">
+                    <h2>정기점검</h2>
+                    <p>월 1회 정기점검을 통해 내,외부 청소/기기이력 관리로 최상의 상태로 제품을 사용하실 수 있습니다.</p>
+                </div>
+                <div id="넷째" class="tab-slider--body">
+                    <h2>A/S 및 업무 효율</h2>
+                    <p>기계에 대한 A/S 발생시 신속, 정확한 서비스로 대응하며 드라이버, 스캔 설치의 경우<br>
+                        원격지원 서비스를 통해 업무의 불편함을 최소화 할 수 있습니다.
+                    </p>
                 </div>
             </div>
         </div>
@@ -447,18 +458,18 @@ Follow: http://www.twitter.com/themehats
 <!-- END: LAYOUT/BASE/BOTTOM -->
 </body>
 <script>
-    $("document").ready(function(){
+    $("document").ready(function () {
         $(".tab-slider--body").hide();
         $(".tab-slider--body:first").show();
     });
 
-    $(".tab-slider--nav li").click(function() {
+    $(".tab-slider--nav li").click(function () {
         $(".tab-slider--body").hide();
         var activeTab = $(this).attr("rel");
-        $("#"+activeTab).fadeIn();
-        if($(this).attr("rel") == "tab2"){
+        $("#" + activeTab).fadeIn();
+        if ($(this).attr("rel") == "tab2") {
             $('.tab-slider--tabs').addClass('slide');
-        }else{
+        } else {
             $('.tab-slider--tabs').removeClass('slide');
         }
         $(".tab-slider--nav li").removeClass("active");
@@ -510,6 +521,7 @@ Follow: http://www.twitter.com/themehats
         -ms-user-select: none;
         user-select: none;
     }
+
     .tab-slider--tabs:after {
         content: "";
         width: 50%;
@@ -521,6 +533,7 @@ Follow: http://www.twitter.com/themehats
         transition: all 250ms ease-in-out;
         border-radius: 35px;
     }
+
     .tab-slider--tabs.slide:after {
         left: 50%;
     }
@@ -543,6 +556,7 @@ Follow: http://www.twitter.com/themehats
         -ms-user-select: none;
         user-select: none;
     }
+
     .tab-slider--trigger.active {
         color: #fff;
     }
