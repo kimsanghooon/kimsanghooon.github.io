@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a15b3da9-8aee-47d0-a608-d106e8cc61cb" name="Default" comment="float">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/base/img/Detail/상담문의.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/base/img/Detail/상담문의.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/subpages/ajax/projects/3011i.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/ajax/projects/3011i.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/subpages/ajax/projects/5052i.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/ajax/projects/5052i.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/subpages/ajax/projects/5270X1.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/ajax/projects/5270X1.html" afterDir="false" />
@@ -116,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/C2263.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+              <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -125,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/3011i.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="77" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="77" />
+              <caret line="16" column="85" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="85" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#2;n#!!top" expanded="true" />
@@ -138,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/5052i.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+              <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -147,7 +146,7 @@
         <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/5270X1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+              <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -193,7 +192,7 @@
         <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/6230C.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+              <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -202,7 +201,7 @@
         <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/8123NA.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -210,8 +209,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/X3220NR.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+            <state relative-caret-position="405">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -220,7 +219,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>C028</find>
       <find>C360</find>
       <find>5052i</find>
       <find>M5521cdn</find>
@@ -250,6 +248,7 @@
       <find>&lt;img src=&quot;../../../assets/base/img/Detail/상담문의.png&quot; href=&quot;tel:+15661454&quot; href=&quot;tel:+15661454&quot;&gt;</find>
       <find>&lt;img src=&quot;&quot;</find>
       <find>&lt;img src=&quot;../../../assets/base/img/Detail/상담문의.png&quot; href=&quot;tel:\+15661454&quot; href=&quot;tel:\+15661454&quot;&gt;</find>
+      <find>&lt;img src=&quot;../../../assets/base/img/Detail/상담문의.png&quot; href=&quot;tel:\+15661454&quot;&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>010-5500-8097</replace>
@@ -261,6 +260,7 @@
       <replace>&quot;../../../assets/base/img/Detail/상담문의.png&quot; href=&quot;tel:+15661454&quot;</replace>
       <replace />
       <replace>&lt;img src=&quot;../../../assets/base/img/Detail/상담문의.png&quot; href=&quot;tel:\+15661454&quot;&gt;</replace>
+      <replace>&lt;a href=&quot;tel:+15661454&quot;&gt;&lt;img src=&quot;../../../assets/base/img/Detail/상담문의.png&quot; &gt;&lt;/a&gt;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/subpages/ajax/projects</dir>
@@ -422,7 +422,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544349189672" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544349303923" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/subpages/ajax/projects" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -508,28 +508,7 @@
       <workItem from="1540107402672" duration="4970000" />
       <workItem from="1540708050730" duration="6565000" />
       <workItem from="1544335917450" duration="1088000" />
-      <workItem from="1544337232242" duration="10588000" />
-    </task>
-    <task id="LOCAL-00019" summary="POPUP NAVI KEY DOWN">
-      <created>1540710801548</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1540710801548</updated>
-    </task>
-    <task id="LOCAL-00020" summary="POPUP NAVI KEY DOWN">
-      <created>1540711670208</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1540711670208</updated>
-    </task>
-    <task id="LOCAL-00021" summary="POPUP NAVI KEY DOWN">
-      <created>1540712492116</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1540712492116</updated>
+      <workItem from="1544337232242" duration="10835000" />
     </task>
     <task id="LOCAL-00022" summary="POPUP NAVI KEY DOWN">
       <created>1540712582391</created>
@@ -853,11 +832,32 @@
       <option name="project" value="LOCAL" />
       <updated>1544348513653</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="float">
+      <created>1544349062217</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1544349062217</updated>
+    </task>
+    <task id="LOCAL-00069" summary="float">
+      <created>1544349127548</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1544349127548</updated>
+    </task>
+    <task id="LOCAL-00070" summary="float">
+      <created>1544349298946</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1544349298946</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26611000" />
+    <option name="totallyTimeSpent" value="26858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="955" extended-state="0" />
@@ -1324,14 +1324,14 @@
     <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/C2263.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/3011i.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="77" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="77" />
+          <caret line="16" column="85" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="85" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#2;n#!!top" expanded="true" />
@@ -1342,35 +1342,35 @@
     <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/5052i.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/5270X1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/6230C.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/8123NA.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/subpages/ajax/projects/X3220NR.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        <state relative-caret-position="405">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
