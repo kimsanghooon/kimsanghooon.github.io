@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a15b3da9-8aee-47d0-a608-d106e8cc61cb" name="Default" comment="float">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/base/img/Detail/사업영역.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/base/img/Detail/사업영역.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/subpages/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/intro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/rental.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/rental.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +72,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/subpages/rental.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="674">
@@ -82,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/subpages/intro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="374" column="9" selection-start-line="374" selection-start-column="9" selection-end-line="374" selection-end-column="9" />
+            <state relative-caret-position="247">
+              <caret line="353" column="40" selection-start-line="353" selection-start-column="40" selection-end-line="353" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -181,7 +180,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>2525</find>
       <find>n501</find>
       <find>283</find>
       <find>테이블</find>
@@ -211,6 +209,7 @@
       <find>01027003561</find>
       <find>견적문의</find>
       <find>footer</find>
+      <find>&lt;img</find>
     </findStrings>
     <replaceStrings>
       <replace>010-5500-8097</replace>
@@ -271,8 +270,8 @@
         <option value="$PROJECT_DIR$/subpages/ajax/projects/PK5275K.html" />
         <option value="$PROJECT_DIR$/subpages/ajax/projects/KS1270C.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/subpages/intro.html" />
         <option value="$PROJECT_DIR$/subpages/rental.html" />
+        <option value="$PROJECT_DIR$/subpages/intro.html" />
       </list>
     </option>
   </component>
@@ -372,7 +371,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544346550777" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544346771189" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -458,14 +457,7 @@
       <workItem from="1540107402672" duration="4970000" />
       <workItem from="1540708050730" duration="6565000" />
       <workItem from="1544335917450" duration="1088000" />
-      <workItem from="1544337232242" duration="8276000" />
-    </task>
-    <task id="LOCAL-00003" summary="selling page X">
-      <created>1540108764254</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1540108764254</updated>
+      <workItem from="1544337232242" duration="8482000" />
     </task>
     <task id="LOCAL-00004" summary="selling page X">
       <created>1540109255586</created>
@@ -803,11 +795,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544346375581</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="float">
+      <created>1544346557563</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1544346557563</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24299000" />
+    <option name="totallyTimeSpent" value="24505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="955" extended-state="0" />
@@ -1305,17 +1304,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subpages/intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="374" column="9" selection-start-line="374" selection-start-column="9" selection-end-line="374" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subpages/rental.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="674">
           <caret line="1333" column="9" selection-start-line="1333" selection-start-column="9" selection-end-line="1333" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subpages/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="353" column="40" selection-start-line="353" selection-start-column="40" selection-end-line="353" selection-end-column="40" />
         </state>
       </provider>
     </entry>
