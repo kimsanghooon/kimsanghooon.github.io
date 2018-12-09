@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a15b3da9-8aee-47d0-a608-d106e8cc61cb" name="Default" comment="float">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/intro.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,14 +52,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="3" />
-          <entry key="html" value="2184" />
+          <entry key="html" value="2195" />
           <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="2184" />
+          <entry key="HTML" value="2195" />
           <entry key="PLAIN_TEXT" value="58" />
         </counts>
       </usages-collector>
@@ -129,10 +130,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/subpages/service.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="-2465">
               <caret line="304" column="59" lean-forward="true" selection-start-line="304" selection-start-column="59" selection-end-line="304" selection-end-column="59" />
               <folding>
                 <element signature="e#21342#21348#0" expanded="true" />
@@ -148,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/subpages/intro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="359" column="10" lean-forward="true" selection-end-line="359" selection-end-column="10" />
+            <state relative-caret-position="412">
+              <caret line="372" column="32" lean-forward="true" selection-start-line="372" selection-start-column="32" selection-end-line="372" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -292,9 +293,9 @@
         <option value="$PROJECT_DIR$/subpages/ajax/projects/6230C.html" />
         <option value="$PROJECT_DIR$/subpages/ajax/projects/X3220NR.html" />
         <option value="$PROJECT_DIR$/subpages/rental.html" />
-        <option value="$PROJECT_DIR$/subpages/intro.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/subpages/service.html" />
+        <option value="$PROJECT_DIR$/subpages/intro.html" />
       </list>
     </option>
   </component>
@@ -394,7 +395,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544352269889" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544352372455" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/subpages/ajax/projects" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -480,14 +481,7 @@
       <workItem from="1540107402672" duration="4970000" />
       <workItem from="1540708050730" duration="6565000" />
       <workItem from="1544335917450" duration="1088000" />
-      <workItem from="1544337232242" duration="13707000" />
-    </task>
-    <task id="LOCAL-00034" summary="float">
-      <created>1544338233393</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1544338233393</updated>
+      <workItem from="1544337232242" duration="13810000" />
     </task>
     <task id="LOCAL-00035" summary="float">
       <created>1544338301414</created>
@@ -825,11 +819,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544352191729</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="float">
+      <created>1544352295215</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1544352295215</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29730000" />
+    <option name="totallyTimeSpent" value="29833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="955" extended-state="0" />
@@ -1329,25 +1330,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subpages/intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="359" column="10" lean-forward="true" selection-end-line="359" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subpages/service.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="-2465">
           <caret line="304" column="59" lean-forward="true" selection-start-line="304" selection-start-column="59" selection-end-line="304" selection-end-column="59" />
           <folding>
             <element signature="e#21342#21348#0" expanded="true" />
@@ -1358,6 +1343,22 @@
             <element signature="e#21451#21457#0" expanded="true" />
             <element signature="e#21473#21479#0" expanded="true" />
             <element signature="e#21482#21488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subpages/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="372" column="32" lean-forward="true" selection-start-line="372" selection-start-column="32" selection-end-line="372" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
