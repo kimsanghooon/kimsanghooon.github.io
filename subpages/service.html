@@ -363,26 +363,28 @@ Follow: http://www.twitter.com/themehats
         <div class="container">
             <div class="tab-slider--nav">
                 <ul class="tab-slider--tabs">
-                    <li class="tab-slider--trigger active" rel="tab1">Tab 1</li>
-                    <li class="tab-slider--trigger" rel="tab2">Tab 2</li>
+                    <li class="tab-slider--trigger active" rel="tab1">첫째</li>
+                    <li class="tab-slider--trigger" rel="tab2">둘째</li>
+                    <li class="tab-slider--trigger active" rel="tab3">셋째</li>
+                    <li class="tab-slider--trigger" rel="tab4">넷째</li>
                 </ul>
             </div>
             <div class="tab-slider--container">
-                <div id="첫째" class="tab-slider--body">
+                <div id="tab1" class="tab-slider--body">
                     <h2>비용절감</h2>
                     <p>초기 기게구매 비용이 없어 부담이 적고 사무환경에 맞게 제품을 사용할 수 있습니다.</p>
                 </div>
-                <div id="둘째" class="tab-slider--body">
+                <div id="tab2" class="tab-slider--body">
                     <h2>용지를 제외한 무상제공 서비스</h2>
                     <p>
                         임대계약시 소모품, 부품은 무상제공 되기 때문에 구매비용의 부담을 줄일 수 있습니다.
                     </p>
                 </div>
-                <div id="셋째" class="tab-slider--body">
+                <div id="tab3" class="tab-slider--body">
                     <h2>정기점검</h2>
                     <p>월 1회 정기점검을 통해 내,외부 청소/기기이력 관리로 최상의 상태로 제품을 사용하실 수 있습니다.</p>
                 </div>
-                <div id="넷째" class="tab-slider--body">
+                <div id="tab4" class="tab-slider--body">
                     <h2>A/S 및 업무 효율</h2>
                     <p>기계에 대한 A/S 발생시 신속, 정확한 서비스로 대응하며 드라이버, 스캔 설치의 경우<br>
                         원격지원 서비스를 통해 업무의 불편함을 최소화 할 수 있습니다.
@@ -467,10 +469,12 @@ Follow: http://www.twitter.com/themehats
         $(".tab-slider--body").hide();
         var activeTab = $(this).attr("rel");
         $("#" + activeTab).fadeIn();
-        if ($(this).attr("rel") == "tab2") {
+        if ($(this).attr("rel") == "둘째") {
             $('.tab-slider--tabs').addClass('slide');
-        } else {
-            $('.tab-slider--tabs').removeClass('slide');
+        } if else ($(this).attr("rel") == "둘째") {
+            $('.tab-slider--tabs').addClass('slide');
+        } if  else($(this).attr("rel") == "둘째") {
+            $('.tab-slider--tabs').addClass('slide');
         }
         $(".tab-slider--nav li").removeClass("active");
         $(this).addClass("active");
